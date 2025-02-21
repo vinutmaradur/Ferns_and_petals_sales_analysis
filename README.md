@@ -1,13 +1,13 @@
 ## Ferns and Petals Sales Analysis
 
-Overview
+## Overview
 
 This Ferns and Petals Sales Analysis provides a detailed visualization of sales data, including total revenue, total orders, order-delivery time,
 and average customer spending. The dashboard enables users to analyze revenue trends across different categories, occasions, months, and order times, offering valuable insights for business decisions.
 
 ---
 
-## Features
+## Features 🎯
 
 - **Total Orders & Revenue:** Displays key metrics such as the number of total orders and total revenue.
 
@@ -31,19 +31,23 @@ and average customer spending. The dashboard enables users to analyze revenue tr
 
 ---
 
-## Screenshot
+## Screenshot 📸
+
 ![img alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp1.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp2.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp3.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp4.png?raw=true)
 ![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp5.png?raw=true)
+
 ---
 
-## Technology Used:
+## Technology Used 🛠️
 
 - Microsoft Excel
 - Power Pivot
 - Power Query Editor
+- DAX Functions
+- Data Visualization
 
 ---
 
