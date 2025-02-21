@@ -32,11 +32,11 @@ and average customer spending. The dashboard enables users to analyze revenue tr
 ---
 
 ## Screenshot
-![img alt](![fnp1](https://github.com/user-attachments/assets/c088f91a-dfa8-493c-b0b5-37dfd0fca3ce))
-![img_alt]()
-![img_alt]()
-![img_alt]()
-
+![img alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp1.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp2.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp3.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp4.png?raw=true)
+![img_alt](https://github.com/vinutmaradur/Ferns_and_petals_sales_analysis/blob/main/iamges/fnp5.png?raw=true)
 ---
 
 ## Technology Used:
