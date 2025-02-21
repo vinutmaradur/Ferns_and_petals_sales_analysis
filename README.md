@@ -32,7 +32,7 @@ and average customer spending. The dashboard enables users to analyze revenue tr
 ---
 
 ## Screenshot
-![img alt]("C:\Users\vinut\OneDrive\Pictures\Screenshots\fnp1.png")
+![img alt](![fnp1](https://github.com/user-attachments/assets/c088f91a-dfa8-493c-b0b5-37dfd0fca3ce))
 ![img_alt]()
 ![img_alt]()
 ![img_alt]()
