@@ -1,6 +1,6 @@
-## Ferns and Petals Sales Analysis
+## Ferns and Petals Sales Analysis 🌿📊🌸
 
-## Overview
+## Overview 📊
 
 This Ferns and Petals Sales Analysis provides a detailed visualization of sales data, including total revenue, total orders, order-delivery time,
 and average customer spending. The dashboard enables users to analyze revenue trends across different categories, occasions, months, and order times, offering valuable insights for business decisions.
