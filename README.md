@@ -63,7 +63,8 @@ and average customer spending. The dashboard enables users to analyze revenue tr
 
 ---
 
-- check me live dashboard below
+## For Live Dashboard check this
+
   📊 **Live Dashboard**: [Click here to view](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIeNUF-1gobPx4leosEqHU3A7eS_7J2uZNXsexnBWRHZFDIhseDhc8A1bfrq0TSw/pubhtml)  
 
 ---
